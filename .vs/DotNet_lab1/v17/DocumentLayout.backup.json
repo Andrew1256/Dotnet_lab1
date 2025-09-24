@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Comp_Quartal\\Desktop\\\u0423\u043D\u0456\u0432\u0435\u0440\\3_\u043A\u0443\u0440\u0441\\Dotnet_lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE8312C-5FE0-420A-8563-7FD3D3AFA813}|DotNet_lab1\\DotNet_lab1.csproj|c:\\users\\comp_quartal\\desktop\\\u0443\u043D\u0456\u0432\u0435\u0440\\3_\u043A\u0443\u0440\u0441\\dotnet_lab1\\dotnet_lab1\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE8312C-5FE0-420A-8563-7FD3D3AFA813}|DotNet_lab1\\DotNet_lab1.csproj|solutionrelative:dotnet_lab1\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkItem.cs",
+              "DocumentMoniker": "C:\\Users\\Comp_Quartal\\Desktop\\\u0423\u043D\u0456\u0432\u0435\u0440\\3_\u043A\u0443\u0440\u0441\\Dotnet_lab1\\DotNet_lab1\\WorkItem.cs",
+              "RelativeDocumentMoniker": "DotNet_lab1\\WorkItem.cs",
+              "ToolTip": "C:\\Users\\Comp_Quartal\\Desktop\\\u0423\u043D\u0456\u0432\u0435\u0440\\3_\u043A\u0443\u0440\u0441\\Dotnet_lab1\\DotNet_lab1\\WorkItem.cs",
+              "RelativeToolTip": "DotNet_lab1\\WorkItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:24:23.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
